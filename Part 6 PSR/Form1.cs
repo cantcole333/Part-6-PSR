@@ -16,5 +16,15 @@ namespace Part_6_PSR
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radBtnPaper_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
