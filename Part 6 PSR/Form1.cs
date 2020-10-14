@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Part_6_PSR
 {
-    public partial class Form1 : Form
+    public partial class PSR : Form
     {
-        public Form1()
+        public PSR()
         {
             InitializeComponent();
         }
@@ -23,6 +23,11 @@ namespace Part_6_PSR
         }
 
         private void radBtnPaper_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void grpPlayerChoice_Enter(object sender, EventArgs e)
         {
 
         }
